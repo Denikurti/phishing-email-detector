@@ -1,0 +1,9 @@
+id,sender,subject,body,links,attachments
+1,amazon-support@secure-login.co,Action Required: Verify Your Account,Your account has been suspended. Click the link to verify now,http://amaz0n-secure-login.com/verify,none
+2,security@paypal.com,Unusual Login Detected,We detected a login from a new device. Please review your activity,https://paypal.com/security,none
+3,it-support@company.com,Password Expiry Notice,Your password will expire today. Click here to reset,http://company-reset-password.com/reset,none
+4,hr@company.com,Updated Payslip,Please find attached your updated payslip,none,payslip.pdf
+5,netflix@billing-update.net,Payment Failed,Your payment failed. Update billing now,http://netflix-billing-update.net,none
+6,admin@company.com,Meeting Reminder,Reminder about today's meeting at 3PM,none,none
+7,apple-support@icloud-secure.net,Apple ID Locked,Your Apple ID has been locked. Verify immediately,http://apple-id-verify.net,none
+8,alerts@bank-secure.co,Account Compromised,We detected suspicious activity. Secure your account now,http://bank-secure-login.co,none

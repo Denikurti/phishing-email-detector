@@ -1,0 +1,9 @@
+id,sender,subject,links,attachments,score,reasons
+1,amazon-support@secure-login.co,Action Required: Verify Your Account,http://amaz0n-secure-login.com/verify,none,15,keyword:verify;keyword:suspended;keyword:action required;link:http;link_domain_mismatch;brand_domain_mismatch:amazon;lookalike_hint
+7,apple-support@icloud-secure.net,Apple ID Locked,http://apple-id-verify.net,none,13,keyword:verify;keyword:locked;link:http;link_domain_mismatch;brand_domain_mismatch:apple;lookalike_hint
+5,netflix@billing-update.net,Payment Failed,http://netflix-billing-update.net,none,11,keyword:payment failed;link:http;link_domain_mismatch;brand_domain_mismatch:netflix;lookalike_hint
+8,alerts@bank-secure.co,Account Compromised,http://bank-secure-login.co,none,10,keyword:compromised;keyword:secure;link:http;link_domain_mismatch;lookalike_hint
+3,it-support@company.com,Password Expiry Notice,http://company-reset-password.com/reset,none,8,keyword:reset;link:http;link_domain_mismatch;lookalike_hint
+2,security@paypal.com,Unusual Login Detected,https://paypal.com/security,none,2,keyword:unusual login
+4,hr@company.com,Updated Payslip,none,payslip.pdf,2,has_attachment
+6,admin@company.com,Meeting Reminder,none,none,0,
